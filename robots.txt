@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://woarjc.github.io/sitemap/sitemap.txt
